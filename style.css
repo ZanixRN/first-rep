@@ -52,5 +52,5 @@ body {
     background-color: #161c28;   
 }
 .hero {
-    height: 500px;
+    display: flex;
 }
